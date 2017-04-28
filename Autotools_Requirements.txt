@@ -1,0 +1,19 @@
+1. Enter Autotools URL in Any Browser ----> It should display the Login page of autotools application
+
+2. Login with Correct Credentials of User--> Enter correct credentials of User and click on SignIn Button,
+                                             So that It should take you to the Welcome Page of User.
+3.Try to Login with Incorrect Credentials--> Enter some incorrect detalis and click on SignIn Button,
+                                             It should take you to the Login page and Displays the Message as--Wrong Credentials
+                                             Please Try angain.
+4. In welcome page ---> The welcome page sholud display, on the Header with Menu Bar having 
+                                             these Items 1. Auto Tools
+                                                           2. User FirstName and LastName
+                                                           3. Test Management
+5. Click on Autotools Item in MenuBar---> It sholud redirect to the same page (welcome page)
+6. Click on UserName Item in MenuBar-----> It should Display DropDown with these options in orderwise
+                                             1. My Profile
+                                             2. LogOut
+7. Click on TestManagement in MenuBar--> It sholud display DropDown with these options in Orderwise
+                                             1. Test Status
+                                             2. Test Suite Status
+8.In UserName or test Management DropDown move mouse point over to any option---> The perticular option background color should display in blue color  
